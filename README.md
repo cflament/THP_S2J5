@@ -1,2 +1,1 @@
-# THP_S2J5
-exes Big Data &amp; Crypto
+This is a beautiful repo for my projects today
